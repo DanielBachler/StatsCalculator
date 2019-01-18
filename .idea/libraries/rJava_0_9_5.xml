@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="rJava_0.9-5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/rJava_0.9-5.zip!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/rJava_0.9-5.zip!/rJava/javadoc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/rJava_0.9-5.zip!/rJava/java" />
+      <root url="jar://$PROJECT_DIR$/rJava_0.9-5.zip!/rJava/java/boot" />
+      <root url="jar://$PROJECT_DIR$/rJava_0.9-5.zip!/rJava/jri/examples" />
+    </SOURCES>
+  </library>
+</component>
